@@ -1,4 +1,4 @@
-## Hi there 👋# Hi there, I'm Aryan Saxena! 👋 
+## Hi there 👋, I'm Aryan Saxena! 👋 
 
 ### 📱 Android Developer | Tech Enthusiast | Open Source Contributor
 
