@@ -1,60 +1,60 @@
-## Hi there 👋, I'm Aryan Saxena! 👋 
-
-### 📱 Android Developer | Tech Enthusiast | Open Source Contributor
-
-I'm a passionate **Android Developer** dedicated to building seamless, user-centric mobile experiences. I love turning complex problems into elegant, functional code.
+<div align="center">
+  <h1>Hi 👋, I'm Aryan Saxena</h1>
+  <h3>17-year-old Full-Stack Developer & AI Builder from Bhopal, India 🇮🇳</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/aryansaxena1009" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/aryan1coder" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on enhancing my **Android Development** skills.
-- 🌱 I’m diving deeper into **Jetpack Compose** and **Advanced Kotlin**.
-- 👯 I’m looking to collaborate on **Open Source Android projects**.
-- 💬 Ask me about **Java, Kotlin, or Android Studio**.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/aryan-saxena-708b0b3b1/)
+- 🔭 Currently building **AI-powered web apps, 3D interactive experiences, and rapid full-stack prototypes**.
+- 🏆 **Solo Finalist (Round 2)** at **Tech Zephyr 4.0 (Agentic AI Hackathon)** by **IIT Bhubaneswar** & Finalist at **IIT Guwahati Avinya**.
+- 💻 Competed at **PromptWars Bhopal** & attended **GDG DevFest Bhopal 2026** (Google Cloud, Vertex AI & ADK).
+- 🌱 Exploring **Three.js / React Three Fiber**, **Agentic AI workflows**, and scalable system architecture.
+- ⚡ Fun fact: Turning caffeine & late-night ideas into live Vercel deployments before deadlines.
 
 ---
 
-### 🛠 Tech Stack
-**Languages & Core:**
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white)
+### 🛠️ Tech Stack
 
-**Android Tools:**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Frontend & 3D:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**Backend, Cloud & AI:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **🌾 Smart Mandi** | Full-stack APMC agricultural market slot-booking & QR queue management platform connecting farmers via WhatsApp, gate security via QR PWA, and mandi authorities in real time. | `Next.js` `TypeScript` `Supabase` `Twilio` | [Live App ↗](https://smart-mandi-iota.vercel.app) |
+| **🌍 Civic Air Quality Briefing Studio** | AI-powered real-time air quality telemetry, spatial heatmap & civic intelligence dashboard built at PromptWars Bhopal. | `Vite` `React` `Gemini API` `Firebase` | [Live App ↗](https://civic-air-wine.vercel.app) |
+| **🍽️ TapDish** | QR-based digital restaurant menu and instant table-ordering SaaS platform with real-time menu management. | `React` `Node.js` `Vercel` `Railway` | *Archived* |
+| **🏢 MP Web Studios** | Co-founded web agency delivering custom high-converting storefronts & booking portals for local businesses. | `Next.js` `Tailwind CSS` `Vercel` | *Agency* |
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=aryan1coder&show_icons=true&theme=dracula&rank_icon=github" alt="Aryan's GitHub Stats" />
-</p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan1coder&layout=compact&theme=dracula" alt="Most Used Languages" />
-</p>
-
----
-
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-saxena-708b0b3b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan1coder)
-
-"Building the future, one activity at a time." 🚀
-<!--
-**aryan1coder/aryan1coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan1coder&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan1coder&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+</div>
